@@ -41,7 +41,7 @@ I'm experienced in consuming and building APIs, and I have a special interest in
 
 ---
 
-## 📊 My GitHub Stats
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
@@ -57,3 +57,9 @@ I'm experienced in consuming and building APIs, and I have a special interest in
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 
 </p>
+<a href="https://www.instagram.com/ashwinhey" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:vashwinvengatemail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
