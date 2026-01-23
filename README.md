@@ -1,7 +1,7 @@
  Hi there, I'm Ashwin.V 👋
 
 
-I'm a developer using vibe coding and currently pursuing 4th year on M>Tech CSE(5 years inntegrated course) at Sri Sairam Engineering college who is passionate about building intelligent, data-driven applications.
+I'm a developer using vibe coding and currently pursuing 4th year on M.Tech CSE(5 years inntegrated course) at Sri Sairam Engineering college who is passionate about building intelligent, data-driven applications.
 I love combining the power of full-stack web development with the insights from machine learning and AI API's which makes more efficient and powerful.
 
 - 🌱 I’m currently building a Chatting Platform using Socket.io
